@@ -1,7 +1,5 @@
 # multi-environments-visualstudio
 
-[![Build status](https://saymondevops.visualstudio.com/Test Pipeline/_apis/build/status/Test%20Pipeline-CI)](https://saymondevops.visualstudio.com/Test Pipeline/_build/latest?definitionId=2)
-
 Projeto com arquivo de configuração (app.config) com variáveis de configuração. Para este tutorial foi utilizado o software Microsoft Visual Studio Enterprise 2017.
 Exemplo de arquivo e chaves:
 
